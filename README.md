@@ -1,4 +1,6 @@
-This website is made as an advertisement for the CITI INSURANCE SERVICES which is a brand name used by one of my known insurance broker. The website tells why one should buy insurance through them and what all insurance porducts they provide.
+This website is made as an advertisement for the CITI INSURANCE SERVICES which is a brand name used by one of my known insurance broker. The website tells why one should buy insurance through them and what all insurance products they provide.
+
+This is a clone of the landing page for CITI INSURANCE SERVICES website, hence only limited things are functional
 
 Description of the webpage: -
 It is a Single Page Application(SPA) as its main aim was to do advertisement.
